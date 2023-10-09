@@ -1,0 +1,19 @@
+body{
+	background-color: orange;
+}
+.titleOne{color: pink;
+	font-size: 60px;
+	margin: 80px;
+	padding: 35px;
+}
+.titleTwo{color: green;
+	font-size: 30px;
+	margin: 40px;
+    padding-bottom: 100px;
+}
+.cameraone{
+	width: 300px;
+	height: 500px;
+	margin: 40px;
+    padding-bottom: 100px;
+}
